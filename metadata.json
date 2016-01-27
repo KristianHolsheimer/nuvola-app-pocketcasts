@@ -2,7 +2,7 @@
     "id": "pocket_casts",
     "name": "Pocket Casts",
     "maintainer_name": "Kristian Holsheimer",
-    "maintainer_link": "mailto:kristian.holsheimer@gmail.com",
+    "maintainer_link": "https://github.com/KristianHolsheimer/nuvola-app-pocketcasts",
     "version_major": 1,
     "version_minor": 0,
     "api_major": 3,

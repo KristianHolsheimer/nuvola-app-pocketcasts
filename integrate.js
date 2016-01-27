@@ -1,5 +1,5 @@
 /*
- * Copyright 2015 Your name <your e-mail>
+ * Copyright 2016 Kristian Holsheimer <kristian.holsheimer@gmail.com>
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions are met:
