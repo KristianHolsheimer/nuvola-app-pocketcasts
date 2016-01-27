@@ -1,0 +1,12 @@
+{
+    "id": "pocket_casts",
+    "name": "Pocket Casts",
+    "maintainer_name": "Kristian Holsheimer",
+    "maintainer_link": "mailto:kristian.holsheimer@gmail.com",
+    "version_major": 1,
+    "version_minor": 0,
+    "api_major": 3,
+    "api_minor": 0,
+    "categories": "AudioVideo;Audio;",
+    "home_url": "https://play.pocketcasts.com/web"
+}
